@@ -1,0 +1,31 @@
+site_name: 'mhg.ovh'
+site_description: 'This website lists some tools, posts and other stuffs I like.'
+site_author: 'Marc-Henry GEAY'
+site_url: 'https://mhg.ovh'
+copyright: 'CC BY 4.0'
+use_directory_urls: false
+theme:
+  name: material
+  language: en
+  favicon: assets/flask-outline.svg
+  font: false
+  icon:
+    logo: material/flask-outline
+  palette:
+    scheme: preference
+    primary: light green
+    accent: light green
+  features:
+    - instant
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mhgeay
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mhgeay
+    - icon: fontawesome/brands/github
+      link: https://github.com/mhgeay
+markdown_extensions:
+  - meta
+  - toc:
+      toc_depth: 0

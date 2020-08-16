@@ -1,2 +1,2 @@
 # mhg.ovh
-mhg.ovh website sources
+mhg.ovh static website source

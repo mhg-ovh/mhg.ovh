@@ -1,0 +1,30 @@
+name: Build MKdocs and Deploy to S3
+on: [push]
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checks-out
+      uses: actions/checkout@v2
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+        architecture: 'x64'
+    - name: Install MKdocs
+      run: |
+        python3 -m pip install --upgrade pip
+        python3 -m pip install mkdocs
+        python3 -m pip install mkdocs-material
+    - name: Build site
+      run: mkdocs build
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: us-east-1
+    - name: Deploy to S3
+      run: cd site/ && aws s3 sync . s3://${{secrets.AWS_S3_BUCKET}}
+    - name: CloudFront invalidation
+      run: aws cloudfront create-invalidation --distribution-id ${{secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID}} --paths "/*"
