@@ -17,3 +17,7 @@ The website serves static content hosted on a AWS S3 bucket behind a HTTPS Cloud
 Webpages are built with MkDocs and Material theme through Github Actions (CI).
 
 Source repository: <https://github.com/mhg-ovh/mhg.ovh>
+
+### Architecture
+
+![Architecture](/assets/mhg.ovh-archi.svg)
