@@ -32,6 +32,12 @@ Official online demo (few lantecy).
 
 <https://www.elastic.co/guide/en/elasticsearch/plugins/current/cloud-aws-best-practices.html>
 
+### Elastic Detection Rules
+
+Elastic open sourced detection-rules, a set of rules written for Elastic Security, with coverage for many MITRE ATT&CK techniques.
+
+<https://github.com/elastic/detection-rules>
+
 ## Third tools
 
 ### ElastAlert
@@ -75,4 +81,3 @@ It's a fork of the Open Source Elastic Stack available since March 2019 with add
 On October 2019, [AWS faces Elasticsearch lawsuit](https://searchaws.techtarget.com/news/252471650/AWS-faces-Elasticsearch-lawsuit-for-trademark-infringement) for trademark infringement regarding this fork.
 
 <https://opendistro.github.io/for-elasticsearch/>
-

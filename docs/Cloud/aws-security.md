@@ -106,7 +106,7 @@ Fugue | AWS, Azure | <https://www.fugue.co/>
 
 ### Infrastructure-as-code (IaC) scanners
 
-Prevent cloud misconfigurations during build time
+Prevent misconfigurations during build time
 
 Scanner | Compatible software | Link
 ------------ | ------------- | ------------
@@ -116,6 +116,7 @@ tfsec | Terraform | <https://github.com/liamg/tfsec>
 Terrascan | Terraform | <https://github.com/cesar-rodriguez/terrascan>
 CFripper | CloudFormation | <https://github.com/Skyscanner/cfripper>
 cfn-nag | CloudFormation | <https://github.com/stelligent/cfn_nag>
+Regula | Terraform | <https://github.com/fugue/regula>
 
 ### truffleHog - Find secrets
 
@@ -428,6 +429,30 @@ Monitor the internet attack surface of various public cloud environments. Curren
 
 <https://github.com/riskprofiler/CloudFrontier>
 
+### AWS CloudFormation Guard
+
+[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax 
+
+<https://github.com/aws-cloudformation/cloudformation-guard>
+
+### Aardvark
+
+Aardvark is a multi-account AWS IAM Access Advisor API (and caching layer).
+
+<https://github.com/Netflix-Skunkworks/aardvark>
+
+### CloudTracker
+
+It helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies. 
+
+<https://github.com/duo-labs/cloudtracker>
+
+### Action Hero
+
+Action Hero is a sidecar style utility to assist with creating least privilege IAM Policies for AWS by using AWS SDK Client Side Monitoring.
+
+<https://github.com/princespaghetti/actionhero>
+
 ## Publications / Posts
 
 ### Rhino Security Labs blog
@@ -511,7 +536,7 @@ Another impresive repo of cloud security posts
 <https://info.acloud.guru/resources/fixing-5-common-aws-iam-errors>
 
 
-### Forensic in the Cloud - Open Source DFIR blog
+### Open Source DFIR blog posts (Google)
 
 Introducing Libcloudforensics
 
@@ -521,6 +546,38 @@ Introducing Libcloudforensics
 
 <https://osdfir.blogspot.com/2020/06/forensic-disk-copies-in-gcp-aws.html>
 
-Incident Response in the Cloud
+Libcloudforensics and Cloud Logs
 
 <https://osdfir.blogspot.com/2020/06/libcloudforensics-and-cloud-logs.html>
+
+Incident Response in the Cloud
+
+<https://osdfir.blogspot.com/2020/07/incident-response-in-cloud.html>
+
+### Access Keys in AWS Lambda
+
+<https://www.keithrozario.com/2020/06/access-keys-in-aws-lambda.html>
+
+### Fixing 5 Common AWS IAM Errors
+
+<https://acloudguru.com/blog/engineering/fixing-5-common-aws-iam-errors>
+
+### Controlling egress traffic with Istio 
+
+<https://banzaicloud.com/blog/istio-external-demo>
+
+### Tools for Cloud examination (Forensic) - Google
+
+<https://github.com/randorisec/talks/blob/upload/RandoriSec-Friends2020-Enlarge_your_toolkit/RandoriSec-Friends-Tools_for_Cloud_Examination_Thomas_Chopitea.pdf>
+
+### 27 Things AWS Can Do to Reduce Cloud Security Misconfigurations
+
+<https://medium.com/@matthewdf10/27-things-aws-can-do-to-reduce-cloud-security-misconfigurations-f3ed06d6aba8>
+
+### AWS Mindmap
+
+<https://twitter.com/jhencinski/status/1283810412950106112>
+
+### AWS Lambda abuse
+
+<https://luminousmen.com/post/aws-lambda-abuse>
