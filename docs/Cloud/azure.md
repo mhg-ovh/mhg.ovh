@@ -50,6 +50,10 @@ Azure Key Vault provider for Secret Store CSI driver allows you to get secret co
 
 <https://blog.netspi.com/azure-file-shares-for-pentesters>
 
+### Ingesting log files from AWS S3 using AWS Lambda
+
+<https://techcommunity.microsoft.com/t5/azure-sentinel/ingesting-log-files-from-aws-s3-using-aws-lambda/ba-p/1571136>
+
 ## Dev
 
 ### openenclave

@@ -1,6 +1,5 @@
 # mhg.ovh
-mhg.ovh static website source
-Website: <https://mhg.ovh>
+mhg.ovh static website sources.
 
 ## Build & deploy
 

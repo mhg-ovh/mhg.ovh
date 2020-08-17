@@ -94,17 +94,27 @@ This workshop will teach you the basics of the python programming language using
 
 <https://registry.opendata.aws/>
 
+### AWS Stash
+
+A collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface. 
+
+<https://awsstash.com/>
+
 ## Dev
 
 ### AWS Labs
 
 <https://github.com/awslabs>
 
-### Boto
+### Boto 3 docs
 
-Boto is the AWS SDK for Python.
+Boto 3 is the AWS SDK for Python.
 
-<https://boto3.amazonaws.com>
+<https://boto3.amazonaws.com/v1/documentation/api/latest/index.html>
+
+### AWS CLI v2 docs
+
+<https://awscli.amazonaws.com/v2/documentation/api/latest/reference/index.html>
 
 ## Tools
 
@@ -206,6 +216,12 @@ This online tool estimates the network latency from your browser to Amazon Web S
 
 <https://www.cloudping.cloud/aws>
 
+### Cloudkeeper
+
+Cloudkeeper is a standalone CLI tool that periodically collects a list of resources in cloud accounts, provides metrics about them, and can clean them up.
+
+<https://github.com/mesosphere/cloudkeeper>
+
 ## Cloud training platforms
 
 A Cloud Guru : <https://acloud.guru>
@@ -257,3 +273,7 @@ I’m often asked by many colleagues, friends, or Twitter followers where to sta
 ### The million dollar engineering problem
 
 <https://segment.com/blog/the-million-dollar-eng-problem>
+
+### Anatomy of AWS Lambda
+
+<https://dev.to/sosnowski/anatomy-of-aws-lambda-1i1e>

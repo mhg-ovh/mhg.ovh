@@ -453,6 +453,12 @@ Action Hero is a sidecar style utility to assist with creating least privilege I
 
 <https://github.com/princespaghetti/actionhero>
 
+### AWS Auto Remediate
+
+Open source application to instantly remediate common security issues through the use of AWS Config
+
+<https://github.com/servian/aws-auto-remediate>
+
 ## Publications / Posts
 
 ### Rhino Security Labs blog
@@ -581,3 +587,7 @@ Incident Response in the Cloud
 ### AWS Lambda abuse
 
 <https://luminousmen.com/post/aws-lambda-abuse>
+
+### A few thoughts on the $80 million fine from the Capital One Breach
+
+<https://twitter.com/kmcquade3/status/1291801858676228098>

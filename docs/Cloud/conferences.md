@@ -9,7 +9,7 @@ Title: Conferences
 The annual conference about **AWS in general** at Las Vegas on December.
 2019 edition : 5 days, 65k+ attendees, 3 700 sessions, 140 announcements.
 
-Registration : <https://reinvent.awsevents.com/>
+Website : <https://reinvent.awsevents.com/>
 
 Session catalog : <https://www.portal.reinvent.awsevents.com/connect/search.ww>
 
@@ -61,4 +61,6 @@ Exposition with **multiples topics** : DevOps Live, Cloud & Cyber Security Expo,
 
 Open space to meet folks interested in offensive and defensive aspects of cloud security.
 
-<https://cloud-village.org>
+Website: <https://cloud-village.org>
+
+2020 sessions: <https://www.youtube.com/playlist?list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn>
