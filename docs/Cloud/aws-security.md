@@ -591,3 +591,7 @@ Incident Response in the Cloud
 ### A few thoughts on the $80 million fine from the Capital One Breach
 
 <https://twitter.com/kmcquade3/status/1291801858676228098>
+
+### An AWS IAM Security Tooling Reference
+
+<https://ramimac.me/cloudsec/security/aws-iam-tool-reference>

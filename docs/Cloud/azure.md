@@ -14,6 +14,10 @@ Title: Azure
 
 <https://docs.microsoft.com/en-us/security-updates>
 
+### Microsoft Security and Compliance group
+
+<https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance>
+
 ### Detecting AWS attack with Sentinel
 
 <https://techcommunity.microsoft.com/t5/Azure-Sentinel/Hunting-for-Capital-One-Breach-TTPs-in-AWS-logs-using-Azure/ba-p/1019767>
@@ -53,6 +57,10 @@ Azure Key Vault provider for Secret Store CSI driver allows you to get secret co
 ### Ingesting log files from AWS S3 using AWS Lambda
 
 <https://techcommunity.microsoft.com/t5/azure-sentinel/ingesting-log-files-from-aws-s3-using-aws-lambda/ba-p/1571136>
+
+### Petit guide pour se retrouver dans la jungle des licences sécurité et conformité Microsoft 365
+
+<https://www.linkedin.com/pulse/petit-guide-pour-se-retrouver-dans-la-jungle-des-licences-joubert/>
 
 ## Dev
 
