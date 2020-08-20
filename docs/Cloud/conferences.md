@@ -57,7 +57,7 @@ Exposition with **multiples topics** : DevOps Live, Cloud & Cyber Security Expo,
 
 <https://www.cloudexpoeurope.fr>
 
-### Cloudvillage (DEF CON)
+### Cloud Village, DEF CON (US)
 
 Open space to meet folks interested in offensive and defensive aspects of cloud security.
 

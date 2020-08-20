@@ -16,8 +16,6 @@ theme:
     scheme: slate
     primary: light green
     accent: light green
-  features:
-    - instant
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -29,7 +27,7 @@ extra:
 markdown_extensions:
   - meta
   - toc:
-      toc_depth: 0
+      permalink: true
 plugins:
   - search
   - git-revision-date
