@@ -99,7 +99,6 @@ Netflix Security Monkey | AWS, GCP. End of life 2020 | <https://github.com/Netfl
 TurBot | AWS, Azure, GCP | <https://turbot.com/>
 DisruptOps | ? | <https://disruptops.com/>
 CheckPoint CloudGuard Dome9 | AWS, Azure, GCP. Some remediations focused primarily on network and IAM | <https://dome9.com/>
-Cisco Duo CloudMapper | AWS | <https://github.com/duo-labs/cloudmapper>
 Aqua CloudSploit | AWS, Azure, GCP, Oracle Cloud | <https://cloudsploit.com/>
 Trend Micro Cloud Conformity | AWS, (Azure) | <https://www.cloudconformity.com/>
 Fugue | AWS, Azure | <https://www.fugue.co/>
@@ -240,11 +239,25 @@ Cartography is a Python tool that consolidates infrastructure assets and the rel
 
 <https://bigorange.cloud/actions>
 
+### Parliament
+
+AWS IAM linting library. It reviews policies looking for problems.
+
+<https://github.com/duo-labs/parliament>
+
+Web version : <https://parliament.summitroute.com>
+
 ### Terraform Parliament
 
 Run Parliament AWS IAM Checker on Terraform Files
 
 <https://github.com/rdkls/tf-parliament>
+
+### CloudMapper
+
+CloudMapper helps you analyze your Amazon Web Services (AWS) environments. 
+
+<https://github.com/duo-labs/cloudmapper>
 
 ### enumerate-iam
 
@@ -459,6 +472,12 @@ Open source application to instantly remediate common security issues through th
 
 <https://github.com/servian/aws-auto-remediate>
 
+### lsh - The Lambda shell
+
+Run interactive shell commands on AWS Lambda
+
+<https://github.com/tobilg/lsh>
+
 ## Publications / Posts
 
 ### Rhino Security Labs blog
@@ -595,3 +614,13 @@ Incident Response in the Cloud
 ### An AWS IAM Security Tooling Reference
 
 <https://ramimac.me/cloudsec/security/aws-iam-tool-reference>
+
+### Cloud Encryption is worthless
+
+<https://www.chrisfarris.com/post/cloud-encryption>
+
+### AWS Exposable Resources
+
+Resource types that can be publicly exposed on AWS
+
+<https://github.com/SummitRoute/aws_exposable_resources>

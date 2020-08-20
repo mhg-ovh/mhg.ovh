@@ -8,6 +8,12 @@ Title: Azure
 
 <https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services>
 
+### Microsoft Azure Cloud Shell Image
+
+Container Image for Azure Cloud Shell
+
+<https://github.com/azure/cloudshell>
+
 ## Security
 
 ### Security Advisories and Bulletins

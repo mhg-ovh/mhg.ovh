@@ -23,3 +23,9 @@ Exports primitive and predefined GCP IAM Roles and their permissions.
 ### IAM permissions change log 
 
 <https://cloud.google.com/iam/docs/permissions-change-log>
+
+## Posts
+
+### GitHub Actions self-hosted runners on Google Cloud 
+
+<https://github.blog/2020-08-04-github-actions-self-hosted-runners-on-google-cloud>
