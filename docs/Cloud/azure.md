@@ -4,6 +4,10 @@ Title: Azure
 
 ## General
 
+### Azure Pricing calculator
+
+<https://azure.microsoft.com/en-us/pricing/calculator>
+
 ### Mapping between Azure & AWS services
 
 <https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services>
@@ -64,9 +68,13 @@ Azure Key Vault provider for Secret Store CSI driver allows you to get secret co
 
 <https://techcommunity.microsoft.com/t5/azure-sentinel/ingesting-log-files-from-aws-s3-using-aws-lambda/ba-p/1571136>
 
-### Petit guide pour se retrouver dans la jungle des licences sécurité et conformité Microsoft 365
+### [FR] Petit guide pour se retrouver dans la jungle des licences sécurité et conformité Microsoft 365
 
 <https://www.linkedin.com/pulse/petit-guide-pour-se-retrouver-dans-la-jungle-des-licences-joubert/>
+
+### AKS Security & Identity updates | Best of Microsoft Ignite 2018
+
+<https://azure.microsoft.com/en-gb/resources/videos/aks-azure-kubernetes-service-security-identity-updates-best-of-microsoft-ignite-2018>
 
 ## Dev
 

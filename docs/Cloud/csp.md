@@ -1,8 +1,6 @@
 Title: Other CSP
 
-# Other Cloud Service Providers
-
-**Other smaller CSP in EU**
+# Other smaller Cloud Service Providers
 
 ## French
 
