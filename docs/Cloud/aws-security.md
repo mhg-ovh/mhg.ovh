@@ -54,6 +54,26 @@ Hacking the cloud is a encyclopedia of attacks/tactics/techniques that offensive
 
 <https://hackingthe.cloud>
 
+## AWS Security gurus
+
+Short-list of blogs' experts and their twitter accounts
+
+### Scott Piper
+
+<https://summitroute.com> - <https://twitter.com/0xdabbad00>
+
+### Kinnaird McQuade
+
+<https://kmcquade.com> - <https://twitter.com/kmcquade3>
+
+### Chris Farris
+
+<https://www.chrisfarris.com> - <https://twitter.com/jcfarris>
+
+### Ian Mckay
+
+<https://onecloudplease.com> - <https://twitter.com/iann0036>
+
 ## Tools
 
 ### toniblyx's arsenal
@@ -624,3 +644,7 @@ Incident Response in the Cloud
 Resource types that can be publicly exposed on AWS
 
 <https://github.com/SummitRoute/aws_exposable_resources>
+
+### Investigating S3 Scanning Activites on AWS 
+
+<https://www.logsec.cloud/blog/2020-06-04-investigating-on-aws>

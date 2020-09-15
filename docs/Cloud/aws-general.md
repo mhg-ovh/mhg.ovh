@@ -222,6 +222,12 @@ Cloudkeeper is a standalone CLI tool that periodically collects a list of resour
 
 <https://github.com/mesosphere/cloudkeeper>
 
+### The Cloud Market
+
+It provides a catalog of EC2 images and statistical information for the AWS cloud.
+
+<https://thecloudmarket.com>
+
 ## Cloud training platforms
 
 A Cloud Guru : <https://acloud.guru>

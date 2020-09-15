@@ -63,4 +63,8 @@ Open space to meet folks interested in offensive and defensive aspects of cloud 
 
 Website: <https://cloud-village.org>
 
-2020 sessions: <https://www.youtube.com/playlist?list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn>
+#### 2020 edition - DEFCON 28 aka SafeMode
+
+Sessions: <https://www.youtube.com/playlist?list=PL5944c_fOMYn2cQQuQe23gtqZfHWzyrPn>
+
+CTF Write-up: <https://tvd.dev/defcon28-cloud-village-ctf-writeup.html>
