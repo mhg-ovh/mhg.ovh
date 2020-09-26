@@ -18,6 +18,10 @@ Container Image for Azure Cloud Shell
 
 <https://github.com/azure/cloudshell>
 
+### Azure updates
+
+<https://azure.microsoft.com/en-us/updates>
+
 ## Security
 
 ### Security Advisories and Bulletins
@@ -75,6 +79,16 @@ Azure Key Vault provider for Secret Store CSI driver allows you to get secret co
 ### AKS Security & Identity updates | Best of Microsoft Ignite 2018
 
 <https://azure.microsoft.com/en-gb/resources/videos/aks-azure-kubernetes-service-security-identity-updates-best-of-microsoft-ignite-2018>
+
+### Death from Above: Lateral Movement from Azure to On-Prem AD
+
+<https://posts.specterops.io/death-from-above-lateral-movement-from-azure-to-on-prem-ad-d18cb3959d4d>
+
+### The Azure Security Podcast
+
+A twice-monthly podcast dedicated to Security, Privacy, Compliance and Reliability on the Microsoft Cloud Platform.
+
+<https://azsecuritypodcast.net>
 
 ## Dev
 

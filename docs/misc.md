@@ -50,3 +50,7 @@ For bureaucratic reasons, a colleague of mine had to print, sign, scan and send 
 
 <https://unsplash.com>
 
+### WIPO Global Brand Database
+
+<https://www3.wipo.int/branddb>
+

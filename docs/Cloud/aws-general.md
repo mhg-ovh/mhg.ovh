@@ -100,6 +100,18 @@ A collection of AWS related videos, podcasts, code repositories, whitepapers, an
 
 <https://awsstash.com/>
 
+### AWS Video Catalog
+
+AVC collects all the official Amazon videos related to each individual AWS Service and categorizes them.
+
+<https://awsvideocatalog.com>
+
+### The Cloud Market
+
+It provides a catalog of EC2 images and statistical information for the AWS cloud.
+
+<https://thecloudmarket.com>
+
 ## Dev
 
 ### AWS Labs
@@ -222,11 +234,11 @@ Cloudkeeper is a standalone CLI tool that periodically collects a list of resour
 
 <https://github.com/mesosphere/cloudkeeper>
 
-### The Cloud Market
+### AWS Perspective
 
-It provides a catalog of EC2 images and statistical information for the AWS cloud.
+Visualization tool that quickly generates architecture diagrams of AWS Cloud workloads.
 
-<https://thecloudmarket.com>
+<https://aws.amazon.com/solutions/implementations/aws-perspective>
 
 ## Cloud training platforms
 

@@ -452,7 +452,7 @@ Python library to carry out DFIR analysis on the Cloud
 
 #<https://github.com/google/cloud-forensics-utils>
 
-### [MAMIP] Monitor AWS Managed IAM Policies
+### MAMIP - Monitor AWS Managed IAM Policies
 
 <https://github.com/z0ph/aws_managed_policies>
 
@@ -497,6 +497,12 @@ Open source application to instantly remediate common security issues through th
 Run interactive shell commands on AWS Lambda
 
 <https://github.com/tobilg/lsh>
+
+### Offensive Terraform Modules
+
+Automated multi step offensive attack modules with Infrastructure as Code (IAC).
+
+<https://offensive-terraform.github.io>
 
 ## Publications / Posts
 
