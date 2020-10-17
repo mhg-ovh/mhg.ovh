@@ -1,4 +1,4 @@
-site_name: 'mhg.ovh'
+site_name: 'Links box'
 site_description: 'This website lists some tools, posts and other stuffs I like.'
 site_author: 'Marc-Henry GEAY'
 site_url: 'https://mhg.ovh'
@@ -13,7 +13,7 @@ theme:
   icon:
     logo: material/flask-outline
   palette:
-    scheme: slate
+    scheme: preference
     primary: light green
     accent: light green
 extra:

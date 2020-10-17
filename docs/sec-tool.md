@@ -25,3 +25,9 @@ Living Off The Land Binaries and Scripts (Windows)
 Designed to make red team operations faster, more repeatable, stealthier, while including value-added tools and bringing numerous reporting capabilities.
 
 <https://github.com/wavestone-cdt/abaddon>
+
+### Canarytokens
+
+Canarytokens are a free, quick, painless way to help defenders discover they've been breached (by having attackers announce themselves.)
+
+<https://canarytokens.org>
