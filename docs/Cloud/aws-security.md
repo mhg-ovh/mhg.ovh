@@ -54,6 +54,12 @@ Hacking the cloud is a encyclopedia of attacks/tactics/techniques that offensive
 
 <https://hackingthe.cloud>
 
+### CloudSecDocs
+
+CloudSecDocs is a website collecting technical notes, how-tos, and cheatsheets related to cloud-native technologies (not only security-focused), hand curated by Marco Lancini.
+
+<https://cloudsecdocs.com>
+
 ## AWS Security gurus
 
 Short-list of blogs' experts and their twitter accounts
