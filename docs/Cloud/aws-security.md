@@ -337,6 +337,12 @@ Continuously monitor your AWS services for configurations that can lead to degra
 
 <https://github.com/jonrau1/ElectricEye>
 
+### AWS Secure Environment Accelerator
+
+The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
+
+<https://github.com/aws-samples/aws-secure-environment-accelerator>
+
 ## Challenges / CTF
 
 ### flAWS
@@ -510,6 +516,12 @@ Automated multi step offensive attack modules with Infrastructure as Code (IAC).
 
 <https://offensive-terraform.github.io>
 
+### PrismX
+
+Cloud Security Dashboard for AWS - based on ScoutSuite 
+
+<https://github.com/omaidf/PrismX>
+
 ## Publications / Posts
 
 ### Rhino Security Labs blog
@@ -660,3 +672,13 @@ Resource types that can be publicly exposed on AWS
 ### Investigating S3 Scanning Activites on AWS 
 
 <https://www.logsec.cloud/blog/2020-06-04-investigating-on-aws>
+
+### Enumerate AWS API Permissions Without Logging to CloudTrail
+
+The following is a technical writeup for a bug I found in the AWS API that allows you to enumerate certain permissions for a role without logging to CloudTrail. It affects 645 different API actions across 40 different AWS services.
+
+<https://frichetten.com/blog/aws-api-enum-vuln>
+
+### Detecting abuse in the AWS control plane in an actionable way using Det{R}ails
+
+<https://www.tenchisecurity.com/blog/detecting-abuse-in-the-aws-control-plane-in-an-actionable-way-using-det-r-ails>

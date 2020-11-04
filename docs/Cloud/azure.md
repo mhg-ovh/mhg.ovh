@@ -90,6 +90,16 @@ A twice-monthly podcast dedicated to Security, Privacy, Compliance and Reliabili
 
 <https://azsecuritypodcast.net>
 
+### Building Azure Cyber Ranges for Learning and Fun
+
+<https://levelup.gitconnected.com/building-azure-cyber-ranges-for-learning-and-fun-9df1debb2eae>
+
+### ROADtools
+
+The Azure AD exploration framework.
+
+<https://github.com/dirkjanm/ROADtools>
+
 ## Dev
 
 ### openenclave

@@ -295,3 +295,11 @@ I’m often asked by many colleagues, friends, or Twitter followers where to sta
 ### Anatomy of AWS Lambda
 
 <https://dev.to/sosnowski/anatomy-of-aws-lambda-1i1e>
+
+### AWS and their Billions in IPv4 addresses
+
+<https://levelup.gitconnected.com/aws-and-their-billions-in-ipv4-addresses-8b1820fb24c1>
+
+### Getting started with IPv6 on AWS
+
+<https://cloudonaut.io/getting-started-with-ipv6-on-aws>
