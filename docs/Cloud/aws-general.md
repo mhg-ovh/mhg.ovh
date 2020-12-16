@@ -303,3 +303,7 @@ I’m often asked by many colleagues, friends, or Twitter followers where to sta
 ### Getting started with IPv6 on AWS
 
 <https://cloudonaut.io/getting-started-with-ipv6-on-aws>
+
+### Comparing API Gateways on AWS
+
+<https://blog.cloudcraft.co/comparing-api-gateways-on-aws>

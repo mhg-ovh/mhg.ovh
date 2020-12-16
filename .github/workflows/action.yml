@@ -30,10 +30,10 @@ jobs:
         aws-region: us-east-1
 
     - name: Deploy to S3
-      run: cd site/ && aws s3 sync . s3://${{secrets.AWS_S3_BUCKET}} --delete --only-show-errors
+      run: cd site/ && aws s3 sync . s3://${{secrets.AWS_S3_BUCKET}} --only-show-errors
 
     - name: CloudFront invalidation
       run: aws cloudfront create-invalidation --distribution-id ${{secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID}} --paths "/*"
 
     - name: SNS Notification
-      run: grep -R "<http" docs/ |wc -l >> sns_message && aws sns publish --topic-arn ${{secrets.AWS_SNS_TOPIC_ARN}} --message file://sns_message
+      run: grep -R "<http" docs/ |wc -l >> sns_message && aws sns publish --topic-arn ${{secrets.AWS_SNS_TOPIC_ARN}} --subject "[mhg.ovh] Deploy OK" --message file://sns_message

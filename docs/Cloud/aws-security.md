@@ -128,6 +128,7 @@ CheckPoint CloudGuard Dome9 | AWS, Azure, GCP. Some remediations focused primari
 Aqua CloudSploit | AWS, Azure, GCP, Oracle Cloud | <https://cloudsploit.com/>
 Trend Micro Cloud Conformity | AWS, (Azure) | <https://www.cloudconformity.com/>
 Fugue | AWS, Azure | <https://www.fugue.co/>
+OpenCSPM | ? | <https://github.com/OpenCSPM/opencspm>
 
 ### Infrastructure-as-code (IaC) scanners
 
@@ -522,6 +523,18 @@ Cloud Security Dashboard for AWS - based on ScoutSuite
 
 <https://github.com/omaidf/PrismX>
 
+### AWS Incident Response with Athena
+
+Investigation of API activity using Athena and notification of actions using EventBridge
+
+<https://github.com/easttimor/aws-incident-response>
+
+### cloudquery
+
+cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.
+
+<https://github.com/cloudquery/cloudquery>
+
 ## Publications / Posts
 
 ### Rhino Security Labs blog
@@ -682,3 +695,7 @@ The following is a technical writeup for a bug I found in the AWS API that allow
 ### Detecting abuse in the AWS control plane in an actionable way using Det{R}ails
 
 <https://www.tenchisecurity.com/blog/detecting-abuse-in-the-aws-control-plane-in-an-actionable-way-using-det-r-ails>
+
+### Blind Spots in the Cloud
+
+<https://www.crowdstrike.com/blog/beware-blind-spots-in-the-cloud>
